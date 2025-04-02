@@ -39,4 +39,4 @@ These are some activities I enjoy doing in my free time:
 
 Jump to the top: [Click here (section link)](#hey-im-chakshan).
 
-Here is a section link to the README of this repository I'm working on: [README](README.md)
+Here is a relative link to another page: [in-progress page](inprogress.md)
